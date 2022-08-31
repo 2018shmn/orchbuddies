@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>orchestra buddies website</title>
+    </head>
+    <body>
+        <nav>
+        <ul>
+            <li><a href="/home"></a></li>
+            <li><a href="/about">about</a></li>
+            <li><a href="/local opportunities">local opportunities</a></li>
+            <li><a href="/youtube">youtube resources</a></li>
+            <li><a href="/viola">viola resources</a></li>
+            <li><a href="/song requests/questions">song requests/questions</a></li>
+        </ul>
+        </nav>
+        <h1>welcome</h1>
+        <p>This website is dedicated to bring orchestra resources to youth players.</p>
+        <footer>
+        <ul>
+            <li><a href= "mailto:2018Shmn@gmail.com">email for any questions</a></li>
+        </ul>
+        </footer>
+
+    </body>
+</html>
+
